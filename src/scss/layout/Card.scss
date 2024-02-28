@@ -1,0 +1,23 @@
+@import "../core/Variables.scss";
+
+.card {
+    border: solid 2px $white;
+    border-radius: 40px;
+    height: fit-content;
+    color: $white;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    &__text{
+        color: $white;
+        text-align: center;
+        text-decoration: none;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+}
+
+.hidden {
+    display: none;
+  }
