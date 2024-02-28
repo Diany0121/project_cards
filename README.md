@@ -49,17 +49,6 @@ Todo el código ha sido elaborado utilizando VS Studio  Code, con las dependenci
 https://dev.adalab.es/api/projectCard 
 
 
-## 🚀 About Us:
-
-Team Cookie es un equipo de 5 programadoras de software, a fecha de entrega del proyecto estamos en plena formación, cursando un bootcamp de desarrollo web para lograr nuestro objetivo de ser full stack developers.
-Nos encanta ver la evolución de nuestros perfiles en este nuevo mundo tecnológico que esperamos nos reciba en su comunidad, ya que tenemos muchísimo interés en seguir formándonos y mejorando gracias a nuestro esfuerzo y colaboración con otr@s Code Lovers.
-
-Partimos de sitios muy distintos, lo que nos permite trabajar con una visión diferente pero con una meta común : hacer aplicaciones y páginas webs cohesionadas, responsive, accesibles y adaptadas a las necesidades del mercado.
-
-
-## Screenshots
-![Example from design](src/images/screenshotForm.png)
-
 
 
 
